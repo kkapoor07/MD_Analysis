@@ -1,0 +1,10 @@
+numpy
+pandas
+MDAnalysis>=2.0.0 # Recommend version 2.0 or higher for modern features
+scikit-learn
+scipy
+matplotlib
+seaborn
+scikit-image # Optional, needed for find_kde_minima_2d
+# Optional for elbow plot visualization in clustering example:
+# yellowbrick 
